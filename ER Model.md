@@ -1,0 +1,3 @@
+# ER Model
+
+“An ER Model in DBMS is a high-level data modeling technique that visually represents entities, their attributes, and the relationships among them, serving as a blueprint for database design. It is called high-level (conceptual) because it focuses on real-world objects and their associations, not on how data is physically stored. In contrast, the logical level defines tables, columns, and constraints, while the low-level (physical) model deals with actual storage details such as files, indexes, and memory structures.”
